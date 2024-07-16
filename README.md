@@ -2,19 +2,9 @@
 
 NFT Marketplace (Tech Stack: Express.js, React, Node.js, Motoko)
 
- • Designed a sophisticated Decentralized Application (DApp) enabling users to mint, buy and sell NFTs (Non-fungible
- Tokens) using a newly created cryptocurrency token “DANG” on the Internet Computer Blockchain (ICB).
+• Developed a sophisticated Decentralized Application (DApp) for minting, buying, and selling NFTs (Non-fungible Tokens) using the cryptocurrency token “DANG” on the Internet Computer Blockchain (ICB), incorporating robut smart contracts written in Motoko.
  
- • Created robust smart contracts using the Motoko language to facilitate secure and transparent NFT transactions.
- 
- • Integrated “Internet Identity”, a 3rd party authentication partner, to provide an anonymous and secure blockchain
- authentication framework supported by the ICB.
- 
- • Enabled users to view their owned NFTs and list them for sale on the open market by setting a price in “DANG” tokens.
- Listed NFTs can be purchased by any user with the required “DANG” tokens, except the owner.
- 
- • Utilized JavaScript’s Promise-based functions extensively to ensure smooth and efficient execution of asynchronous
- operations.
+• Integrated “Internet Identity” for secure, anonymous blockchain authentication, allowing users to view and list their owned NFTs for sale on the open market by setting a price in “DANG” tokens.
 
 
 #Basic Instructions -
